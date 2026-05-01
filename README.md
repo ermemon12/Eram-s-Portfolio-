@@ -42,22 +42,7 @@ This portfolio is not just a static site — it reflects my work in:
 
 ---
 
-## 📂 Project Structure
 
-
-.
-├── public/
-│ ├── profile.jpg
-│ ├── resume.pdf
-├── src/
-│ ├── components/
-│ ├── App.tsx
-│ ├── main.tsx
-├── index.html
-├── package.json
-
-
----
 
 ## 🧩 Key Features
 
